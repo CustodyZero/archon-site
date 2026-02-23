@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archon.custodyzero.com/sitemap.xml
